@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">SematecTask8</string>
+    <string name="opencamera">open camera</string>
+    <string name="enter_city_name" />
+    <string name="get_times" />
+    <string name="lFajr" />
+    <string name="lSunrise" />
+    <string name="ldhuhr" />
+    <string name="lasr" />
+    <string name="lsunset" />
+    <string name="lmaghrib" />
+    <string name="lisha" />
+    <string name="lImsak" />
+    <string name="lmidnight" />
+    <string name="lBack" />
+</resources>
